@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Telegram Notify API Test/1.0.0": {
+        "runtime": {
+          "Telegram Notify API Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Telegram Notify API Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

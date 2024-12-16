@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Telegram Notify API Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A29E4B-C3CF-4891-B65A-F1FA08886CAD}|Telegram Notify API Test\\Telegram Notify API Test.csproj|c:\\users\\user\\source\\repos\\telegram notify api test\\telegram notify api test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A29E4B-C3CF-4891-B65A-F1FA08886CAD}|Telegram Notify API Test\\Telegram Notify API Test.csproj|solutionrelative:telegram notify api test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A29E4B-C3CF-4891-B65A-F1FA08886CAD}|Telegram Notify API Test\\Telegram Notify API Test.csproj|C:\\Users\\User\\source\\repos\\Telegram Notify API Test\\telegram notify api test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1A29E4B-C3CF-4891-B65A-F1FA08886CAD}|Telegram Notify API Test\\Telegram Notify API Test.csproj|solutionrelative:telegram notify api test\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Telegram Notify API Test\\Telegram Notify API Test\\Form1.cs",
+              "RelativeDocumentMoniker": "Telegram Notify API Test\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Telegram Notify API Test\\Telegram Notify API Test\\Form1.cs",
+              "RelativeToolTip": "Telegram Notify API Test\\Form1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwCQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:52:10.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Telegram Notify API Test\\Telegram Notify API Test\\Form1.cs",
+              "RelativeDocumentMoniker": "Telegram Notify API Test\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Telegram Notify API Test\\Telegram Notify API Test\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Telegram Notify API Test\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T05:49:09.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

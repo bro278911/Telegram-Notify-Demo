@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Telegram Notify API Test\Telegram Notify API Test\bin\Debug\net8.0-windows\Telegram Notify API Test.exe
+C:\Users\User\source\repos\Telegram Notify API Test\Telegram Notify API Test\bin\Debug\net8.0-windows\Telegram Notify API Test.deps.json
+C:\Users\User\source\repos\Telegram Notify API Test\Telegram Notify API Test\bin\Debug\net8.0-windows\Telegram Notify API Test.runtimeconfig.json
+C:\Users\User\source\repos\Telegram Notify API Test\Telegram Notify API Test\bin\Debug\net8.0-windows\Telegram Notify API Test.dll
+C:\Users\User\source\repos\Telegram Notify API Test\Telegram Notify API Test\bin\Debug\net8.0-windows\Telegram Notify API Test.pdb
+C:\Users\User\source\repos\Telegram Notify API Test\Telegram Notify API Test\obj\Debug\net8.0-windows\Telegram_Notify_API_Test.Form1.resources
+C:\Users\User\source\repos\Telegram Notify API Test\Telegram Notify API Test\obj\Debug\net8.0-windows\Telegram Notify API Test.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Telegram Notify API Test\Telegram Notify API Test\obj\Debug\net8.0-windows\Telegram Notify API Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Telegram Notify API Test\Telegram Notify API Test\obj\Debug\net8.0-windows\Telegram Notify API Test.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Telegram Notify API Test\Telegram Notify API Test\obj\Debug\net8.0-windows\Telegram Notify API Test.AssemblyInfo.cs
+C:\Users\User\source\repos\Telegram Notify API Test\Telegram Notify API Test\obj\Debug\net8.0-windows\Telegram Notify API Test.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Telegram Notify API Test\Telegram Notify API Test\obj\Debug\net8.0-windows\Telegram Notify API Test.dll
+C:\Users\User\source\repos\Telegram Notify API Test\Telegram Notify API Test\obj\Debug\net8.0-windows\refint\Telegram Notify API Test.dll
+C:\Users\User\source\repos\Telegram Notify API Test\Telegram Notify API Test\obj\Debug\net8.0-windows\Telegram Notify API Test.pdb
+C:\Users\User\source\repos\Telegram Notify API Test\Telegram Notify API Test\obj\Debug\net8.0-windows\Telegram Notify API Test.genruntimeconfig.cache
+C:\Users\User\source\repos\Telegram Notify API Test\Telegram Notify API Test\obj\Debug\net8.0-windows\ref\Telegram Notify API Test.dll
